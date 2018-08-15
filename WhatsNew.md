@@ -1,4 +1,4 @@
-[当前版本下载地址(请在浏览器中打开)](https://qiniu-cdn-ssl-2.sc-edu.com/apkjwb_v7.4.0_%5Bcode-1465%5D_bugly_release.apk)
+[当前版本下载地址(请在浏览器中打开,当前版本7.5及以上有效)](https://qiniu-cdn-ssl-2.sc-edu.com/apkjwb_v7.4.0_%5Bcode-1465%5D_bugly_release.apk)
 
 ### 7.4.0
 特性新增与修正:
