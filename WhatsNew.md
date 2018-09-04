@@ -1,4 +1,8 @@
-[当前版本下载地址(请在浏览器中打开,当前版本7.5及以上有效)](https://qiniu-cdn-ssl-2.sc-edu.com/apk/jwb_v7.6.0_%5Bcode-1556%5D_bugly_release.apk)
+[当前版本下载地址(请在浏览器中打开,当前版本7.5及以上有效)](https://qiniu-cdn-ssl-2.sc-edu.com/apk/jwb_v7.6.1_%5Bcode-1557%5D_bugly_release.apk)
+
+### 7.6.1
+错误修复与稳定性增强:
+- 修正了查看回评时,显示课评图片的问题
 
 ### 7.6.0
 特性新增与修正:
