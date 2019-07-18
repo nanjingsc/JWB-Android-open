@@ -1,4 +1,11 @@
-[当前版本下载地址(请在浏览器中打开,当前版本7.5及以上有效)](https://cdntest.bili280.com/apk/jwb_v8.9.0_%5Bcode-2028%5D_bugly_release.apk)
+[当前版本下载地址(请在浏览器中打开,当前版本7.5及以上有效)](https://cdntest.bili280.com/apk/jwb_v8.9.1_%5Bcode-2037%5D_bugly_release.apk)
+
+### 8.9.1
+破坏性更新:
+- App 不再支持推送功能,请老师关注教务宝公众号来接收上课 结课提醒
+
+特性新增与修正:
+- 优化网络请求
 
 ### 8.9.0
 特性新增与修正:
