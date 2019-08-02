@@ -1,4 +1,9 @@
-[当前版本下载地址(请在浏览器中打开,当前版本7.5及以上有效)](https://cdntest.bili280.com/apk/jwb_v8.9.1_%5Bcode-2037%5D_bugly_release.apk)
+[当前版本下载地址(请在浏览器中打开,当前版本7.5及以上有效)](https://cdntest.bili280.com/apk/jwb_v8.9.2_%5Bcode-2051%5D_bugly_release.apk)
+
+### 8.9.2
+错误修复与稳定性增强:
+- 修正无法删除合约时的提示
+- 多个稳定性增强
 
 ### 8.9.1
 破坏性更新:
