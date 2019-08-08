@@ -1,4 +1,4 @@
-[当前版本下载地址(请在浏览器中打开,当前版本7.5及以上有效)](https://cdntest.bili280.com/apk/jwb_v8.9.2_%5Bcode-2051%5D_bugly_release.apk)
+[当前版本下载地址(请在浏览器中打开,当前版本7.5及以上有效)](https://alicdn.scjwb.com/apk/jwb_v8.9.2_%5Bcode-2051%5D_bugly_release.apk)
 
 ### 8.9.2
 错误修复与稳定性增强:
