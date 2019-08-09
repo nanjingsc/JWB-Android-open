@@ -1,4 +1,9 @@
-[当前版本下载地址(请在浏览器中打开,当前版本7.5及以上有效)](https://alicdn.scjwb.com/apk/jwb_v8.9.2_%5Bcode-2051%5D_bugly_release.apk)
+[当前版本下载地址(请在浏览器中打开,当前版本7.5及以上有效)](https://alicdn.scjwb.com/apk/jwb_v8.9.3_%5Bcode-2052%5D_bugly_release.apk)
+
+### 8.9.3
+错误修复与稳定性增强:
+- 修正部分设备上上传视频异常的问题
+
 
 ### 8.9.2
 错误修复与稳定性增强:
